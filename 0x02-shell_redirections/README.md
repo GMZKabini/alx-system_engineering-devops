@@ -1,1 +1,1 @@
-write a script that prints "Hello, world"
+write a script that displays a confused smiley
